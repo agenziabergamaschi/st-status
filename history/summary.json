@@ -4,19 +4,18 @@
     "url": "https://spaziotricolore.it",
     "icon": "https://icons.duckduckgo.com/ip3/spaziotricolore.it.ico",
     "slug": "coworking-spazio-tricolore",
-    "status": "down",
-    "uptime": "77.36%",
-    "uptimeDay": "56.05%",
-    "uptimeWeek": "39.59%",
-    "uptimeMonth": "62.46%",
-    "uptimeYear": "77.36%",
+    "status": "up",
+    "uptime": "77.74%",
+    "uptimeDay": "55.52%",
+    "uptimeWeek": "39.25%",
+    "uptimeMonth": "63.08%",
+    "uptimeYear": "77.74%",
     "time": 1045,
-    "timeDay": 791,
-    "timeWeek": 855,
+    "timeDay": 810,
+    "timeWeek": 857,
     "timeMonth": 948,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-07-24": 304,
       "2026-07-25": 1230,
       "2026-07-26": 704,
       "2026-07-27": 699,
@@ -39,7 +38,7 @@
       "2026-08-13": 590,
       "2026-08-14": 776,
       "2026-08-15": 637,
-      "2026-08-16": 155
+      "2026-08-16": 190
     }
   }
 ]
